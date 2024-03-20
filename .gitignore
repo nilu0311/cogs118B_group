@@ -1,0 +1,8 @@
+#ignore all jupyter notebook related things
+*.ipynb_checkpoints
+*.ipynb
+#ignore goodreads_books.csv
+#ignore all .csv files
+*.csv
+#ignore all .json files
+*.json
